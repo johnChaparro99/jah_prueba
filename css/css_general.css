@@ -1,0 +1,33 @@
+body {
+	background: rgb(228,228,228);
+	background: radial-gradient(circle, rgba(228,228,228,1) 45%, rgba(238,127,0,1) 100%);
+}
+
+.color-white{
+	color: white !important;
+}
+
+.pie-pagina{
+	margin-top: 5%; 
+	padding-bottom: 2%; 
+	background-color: #edf0f4;
+}
+
+.recuadro{
+	margin: 10% 10% 10% 10%; 
+	border-radius: 20px; 
+	border: 2px solid; 
+	background: white;
+}
+
+.oculto{
+	display: none;
+}
+
+.w-100{
+	width: 100%;
+}
+
+.w-100{
+	width: 50%;
+}
